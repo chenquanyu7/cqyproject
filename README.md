@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Create React App [![Build Status](https://travis-ci.org/facebook/create-react-app.svg?branch=master)](https://travis-ci.org/facebook/create-react-app)
 
 Create React apps with no build configuration.
@@ -225,6 +226,9 @@ We are grateful to the authors of existing related projects for their ideas and 
 * [@eanplatter](https://github.com/eanplatter)
 * [@insin](https://github.com/insin)
 * [@mxstbr](https://github.com/mxstbr)
+=======
+# cqyproject
+>>>>>>> f08dad38136c4798c3400e8e4f9678c74276eb4c
 =======
 # cqyproject
 >>>>>>> f08dad38136c4798c3400e8e4f9678c74276eb4c
